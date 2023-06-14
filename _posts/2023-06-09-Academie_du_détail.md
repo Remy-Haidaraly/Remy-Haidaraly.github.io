@@ -10,7 +10,7 @@ tags: [JWT,Web]
 
 ## 𝄞 Solution
 L'objectif du challenge consiste à se connecter en tant qu'**admin** pour accéder à l'onglet **Liste des membres**.
-![Connexion](/assets/images/404CTF_2023/Web/Academie_du_détail/connexion.png)
+![Connexion](/assets/images/404CTF_2023/Web/Academie_du_détail/Connexion.png)
 
 
 ![Authentification](/assets/images/404CTF_2023/Web/Academie_du_détail/login.png)

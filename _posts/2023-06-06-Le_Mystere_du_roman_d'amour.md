@@ -6,6 +6,7 @@ tags: [swp,Steganographie]
 
 ## 𝄞 Introduction
 
+![Intro](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/intro.png)
 
 
 Nous disposons d'un fichier au format **swp** à analyser.
@@ -20,6 +21,7 @@ La première étape consiste à **analyser le fichier .swp** pour obtenir des in
   file fichier-etrange.swp 𝄞
 ```
 
+![File](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/file.png)
 
 Nous obtenons plusieurs informations :
  - Le PID : 168
@@ -36,6 +38,7 @@ Ensuite, nous allons essayer de **récupérer** le contenu du fichier **.swp** e
 
 *Lorsque vous exécutez la commande **"vim -r file.swp"**, Vim essaie de récupérer les données du fichier de swap spécifié (dans ce cas, "fichier-etrange.swp") et les intègre dans un fichier de sauvegarde.*
 
+![Vim](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/vim.png)
 
 En examinant le contenu de ce fichier de sauvegarde dans Vim, nous remarquons rapidement qu'il s'agit d'une **image** avec la signature **PNG** et le chunck **IHDR**. Pour l'enregistrer, nous utilisons la commande suivante directement dans vim.
 
@@ -43,14 +46,17 @@ En examinant le contenu de ce fichier de sauvegarde dans Vim, nous remarquons ra
   :w flag.png dans Vim.
 ```
 
+![Book](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/book.png)
 
 À première vue, l'image semble ordinaire, mais nous soupçonnons l'utilisation d'une technique de stéganographie pour cacher des données.
 
 Après avoir utilisé les outils classiques de stéganographie tels que *Exiftool*, *Strings*, *Pngcheck*, *etc*, je décide d'utiliser l'outil **Stegsolve** pour explorer les filtres de couleur. Le filtre **Blue Plane 0** nous renvoie une image qui ressemble à un **QR Code**.
 
+![Stegsolve](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/qrcode_stegsolve.png)
 
 Nous pouvons extraire le contenu de ce QR Code avec ce [site](https://products.aspose.app/barcode/recognize/qr#)
 
+![Flag](/assets/images/404CTF_2023/Forensic/Le_Mystere_du_roman_d'amour/flag.png)
 
 Nous avons maintenant toutes les informations pour résoudre ce challenge ! 
 

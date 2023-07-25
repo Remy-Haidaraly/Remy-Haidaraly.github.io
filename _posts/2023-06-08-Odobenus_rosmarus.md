@@ -1,6 +1,6 @@
 ---
 title: Odobenus Rosmarus
-categories: [404CTF_2023, Steganographie]
+categories: [404CTF_2023, Steganographie_404]
 tags: [Morse]
 ---
 

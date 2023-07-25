@@ -1,6 +1,6 @@
 ---
 title: Message ambassade Cryptanga
-categories: [leHACK_2023, Steganographie]
+categories: [leHACK_2023, Steganographie_leHACK]
 tags: [Traites des lettres, Steganographie]
 image: '/assets/images/leHACK_2023/leHACK.jpg'
 ---

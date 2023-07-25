@@ -1,6 +1,6 @@
 ---
 title: 48 Meters Underground
-categories: [leHACK_2023, IoT]
+categories: [leHACK_2023, IoT_leHACK]
 tags: [IoT, binwalk]
 image: '/assets/images/leHACK_2023/leHACK.jpg'
 ---

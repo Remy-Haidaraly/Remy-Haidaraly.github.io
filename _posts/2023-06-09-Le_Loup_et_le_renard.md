@@ -1,6 +1,6 @@
 ---
 title: Le Loup et le renard
-categories: [404CTF_2023, Web]
+categories: [404CTF_2023, Web_404]
 tags: [Web, cookie, redirection, authentification]
 ---
 

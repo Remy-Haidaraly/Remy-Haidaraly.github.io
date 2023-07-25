@@ -1,6 +1,6 @@
 ---
 title: L'âme d'un poète et le coeur d'une femme [3/4]
-categories: [404CTF_2023, OSINT]
+categories: [404CTF_2023, OSINT_404]
 tags: [OSINT]
 ---
 

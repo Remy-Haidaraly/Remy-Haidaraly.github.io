@@ -1,6 +1,6 @@
 ---
 title: Le tour de l'arène
-categories: [leHACK_2023, Steganographie]
+categories: [leHACK_2023, Steganographie_leHACK]
 tags: [PDF]
 image: '/assets/images/leHACK_2023/leHACK.jpg'
 ---

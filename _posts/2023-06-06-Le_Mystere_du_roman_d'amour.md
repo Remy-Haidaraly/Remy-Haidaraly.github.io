@@ -1,6 +1,6 @@
 ---
 title: Le Mystère du roman d'amour
-categories: [404CTF_2023, Forensic]
+categories: [404CTF_2023, Forensic_404]
 tags: [swp,Steganographie]
 ---
 

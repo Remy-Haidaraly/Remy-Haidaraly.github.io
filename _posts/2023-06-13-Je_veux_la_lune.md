@@ -1,6 +1,6 @@
 ---
 title: Je veux la lune !
-categories: [404CTF_2023, Exploitation binaire]
+categories: [404CTF_2023, Exploitation binaire_404]
 tags: [injection de commande]
 ---
 

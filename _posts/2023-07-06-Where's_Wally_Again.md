@@ -1,6 +1,6 @@
 ---
 title: Where's Wally again ?
-categories: [leHACK_2023, Steganographie]
+categories: [leHACK_2023, Steganographie_leHACK]
 tags: [LSB, Steganographie]
 image: '/assets/images/leHACK_2023/leHACK.jpg'
 ---

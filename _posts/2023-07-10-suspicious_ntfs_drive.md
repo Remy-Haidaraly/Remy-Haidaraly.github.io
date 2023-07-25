@@ -1,6 +1,6 @@
 ---
 title: suspicious_ntfs_drive
-categories: [leHACK_2023, Forensic]
+categories: [leHACK_2023, Forensic_leHACK]
 tags: [Autopsy, image_file]
 image: '/assets/images/leHACK_2023/leHACK.jpg'
 ---

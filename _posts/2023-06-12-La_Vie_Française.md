@@ -1,6 +1,6 @@
 ---
 title: La Vie Française
-categories: [404CTF_2023, Web]
+categories: [404CTF_2023, Web_404]
 tags: [cookie, UNION_SQLI, Web]
 ---
 

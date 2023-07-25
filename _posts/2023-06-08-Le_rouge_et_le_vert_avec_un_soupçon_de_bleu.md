@@ -1,6 +1,6 @@
 ---
 title: Le Rouge et le vert, avec un soupçon de bleu
-categories: [404CTF_2023, Steganographie]
+categories: [404CTF_2023, Steganographie_404]
 tags: [Steganographie]
 ---
 

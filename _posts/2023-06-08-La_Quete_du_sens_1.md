@@ -2,6 +2,7 @@
 title: La Quête du sens [1/3]
 categories: [404CTF_2023, OSINT_404]
 tags: [OSINT]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

@@ -2,6 +2,7 @@
 title: L'Épistolaire moderne
 categories: [404CTF_2023, Web_404]
 tags: [JWT, Web]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

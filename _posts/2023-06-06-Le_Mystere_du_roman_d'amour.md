@@ -2,6 +2,7 @@
 title: Le Mystère du roman d'amour
 categories: [404CTF_2023, Forensic_404]
 tags: [swp,Steganographie]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

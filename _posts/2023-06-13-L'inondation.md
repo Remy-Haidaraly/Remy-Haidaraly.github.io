@@ -2,6 +2,7 @@
 title: L'Inondation
 categories: [404CTF_2023, Programmation_404]
 tags: [Python, netcat, programmation]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

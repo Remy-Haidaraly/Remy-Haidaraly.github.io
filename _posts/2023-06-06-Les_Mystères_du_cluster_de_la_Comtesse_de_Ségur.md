@@ -2,6 +2,7 @@
 title: Les Mystères du cluster de la Comtesse de Ségur
 categories: [404CTF_2023, Forensic_404]
 tags: [Cloud]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

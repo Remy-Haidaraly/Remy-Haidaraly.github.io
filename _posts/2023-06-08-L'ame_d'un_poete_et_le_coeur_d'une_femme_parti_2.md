@@ -2,6 +2,7 @@
 title: L'âme d'un poète et le coeur d'une femme [2/4]
 categories: [404CTF_2023, OSINT_404]
 tags: [OSINT]
+image: '/assets/images/404CTF_2023/404CTF.jpg'
 ---
 
 ## 𝄞 Introduction

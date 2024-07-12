@@ -30,7 +30,7 @@ Informations sur l'athlète inconnu :
 Premièrement, nous allons regarder la date de sortie de la **Renault 16** :
 
 Renault 16 --> 1965
-![Renault](/assets/images/Shutlock-ctf_2024/Osint/Operation_Gear_Grinder-Signalement_2_12/Renault.png)
+![Renault](/assets/images/Shutlock-ctf_2024/Osint/Operation_Gear_Grinder-Signalement_2_12/renault.png)
 
 Ensuite, nous cherchons le pays qui a été l'hôte de l'Eurovision en 1965 ! Une petite recherche sur [Wikipédia](https://fr.wikipedia.org/wiki/Concours_Eurovision_de_la_chanson#Villes_h%C3%B4tes) :
 

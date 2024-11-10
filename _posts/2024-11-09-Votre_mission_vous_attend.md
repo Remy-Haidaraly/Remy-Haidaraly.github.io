@@ -13,7 +13,7 @@ Ce challenge a pour objectif de retrouver le quatrième jeu **Dragon Ball produi
 
 ## 𝄞 Solution
 
-Pour commencer, nous examinons le contrat de *prestation fourni* dans le cadre du challenge. La lecture du document nous révèle que la société s’appelle **Mega Game Corp**. Pour accéder à leur site internet, nous tentons l'URL suivante : [https://megagamecorp.com](https://megagamecorp.com)[text](2024-11-09-Votre_mission_vous_attend.md)
+Pour commencer, nous examinons le contrat de *prestation fourni* dans le cadre du challenge. La lecture du document nous révèle que la société s’appelle **Mega Game Corp**. Pour accéder à leur site internet, nous tentons l'URL suivante : [https://megagamecorp.com](https://megagamecorp.com)
 
 ![Web](/assets/images/Purple_Pill_2024/Osint/Votre_mission_vous_attend/website.webp)
 

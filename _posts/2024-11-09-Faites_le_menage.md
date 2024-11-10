@@ -11,16 +11,13 @@ image: '/assets/images/Purple_Pill_2024/logo.png'
 
 Ce challenge a pour objectif de retrouver la société de ménage du client.
 
-
 ## 𝄞 Solution
 
 Pour ce faire, nous avons exploré le site internet en profondeur et découvert un fichier **robots.txt**.
 
-
 ![Robots](/assets/images/Purple_Pill_2024/Osint/Faites_le_menage/robots.webp)
 
 Ce fichier *robots.txt* révèle l'existence d'un service **FTP**.
-
 
 ![FTP](/assets/images/Purple_Pill_2024/Osint/Faites_le_menage/ftp.webp)
 

@@ -20,10 +20,10 @@ timezone: Europe/Paris
 
 title: 𝄞 Fxoverflow 𝄞 # the main title
 
-tagline: Je m'appelle Rémy et je suis passionné par la cybersécurité ainsi que par le piano. # it will display as the sub-title
+tagline: 🐧 Just a Penguin Cracking Ice and Code. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Je m'appelle Rémy et je suis passionné par la cybersécurité ainsi que par le piano.
+  🐧 Just a Penguin Cracking Ice and Code.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://Remy-Haidaraly.github.io"
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://en.gravatar.com/userimage/251177750/6a11672eca6ceb9547e0817e8b78a34d.png
+avatar: https://2.gravatar.com/userimage/251177750/6a11672eca6ceb9547e0817e8b78a34d?size=256
 # https://en.gravatar.com/userimage/236113865/3f246837730fe6486c482721e5cda23a.png
 # boolean type, the global switch for TOC in posts.
 toc: true

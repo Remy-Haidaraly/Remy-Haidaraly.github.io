@@ -9,8 +9,6 @@ image: '/assets/images/m1ndbr34k/logo.png'
 
 ![Intro](/assets/images/m1ndbr34k_2025/Reverse/FxGuitarPro/intro.png)
 
-> Votre ami guitariste a perdu la clé de licence du logiciel FxGuitarPro... Problème : il a un concert dans 3 jours et toutes ses compositions sont stockées dans ce logiciel. Il vous a donc demandé de l'aider à retrouver sa clé de licence !
-{: .prompt-tip }
 ---
 
 ## Readme.txt 
